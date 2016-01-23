@@ -1,4 +1,7 @@
-# Doctrine Adapter Bundle
+
+# This bundle is deprecated in favor for [AdapterBundle](https://github.com/php-cache/adapter-bundle).
+
+## Doctrine Adapter Bundle
 [![Build Status](https://travis-ci.org/php-cache/doctrine-adapter-bundle.png?branch=master)](https://travis-ci.org/php-cache/doctrine-adapter-bundle) [![SensioLabsInsight](https://insight.sensiolabs.com/projects/5b4a0e25-8b81-44b1-8c99-2d2d387939e1/mini.png)](https://insight.sensiolabs.com/projects/5b4a0e25-8b81-44b1-8c99-2d2d387939e1)
 
 This bundle helps you configurate and register PSR-6 cache services. The bundle uses Doctrine as cache implementation 
